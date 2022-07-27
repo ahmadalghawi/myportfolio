@@ -1,6 +1,6 @@
 ## MY CV (portfolio by React)
-this my CV page by React and bootstrap coding..
-#for install bootstrap :
+this my CV page by React and bootstrap coding
+# for install bootstrap :
 ### `npm install react-bootstrap bootstrap`
 
 #for install react-multi-carousel
