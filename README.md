@@ -1,4 +1,5 @@
 ## MY CV (portfolio by React)
+![](src/myportfolio.png)
 -------------------------------------------------------------------------------------------
 this my CV page by React and bootstrap coding
 # for install bootstrap :
