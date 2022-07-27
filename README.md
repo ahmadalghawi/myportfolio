@@ -1,3 +1,12 @@
+## MY CV (portfolio by React)
+this my CV page by React and bootstrap coding..
+#for install bootstrap :
+### `npm install react-bootstrap bootstrap`
+
+#for install react-multi-carousel
+### `npm i react-multi-carousel`
+[carousel page](https://www.npmjs.com/package/react-multi-carousel)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
