@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.373fb5fe.css",
+    "main.js": "/myportfolio/static/js/main.ce2f7617.js",
+    "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/MYpic.png": "/myportfolio/static/media/MYpic.0325503471004709f224.png",
+    "static/media/color-sharp.png": "/myportfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/myportfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/logo design3.png": "/myportfolio/static/media/logo design3.98c748a6c7c7d51148a3.png",
+    "static/media/portfolio-Template-one.jpg": "/myportfolio/static/media/portfolio-Template-one.3f206631147ba97f64b6.jpg",
+    "static/media/gameover-web.jpg": "/myportfolio/static/media/gameover-web.495d43e7d1a831928c24.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/myportfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/myportfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/myportfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/GitHub_Fetch.jpg": "/myportfolio/static/media/GitHub_Fetch.d7c9513c72eab5ed7bc5.jpg",
+    "static/media/footer-bg.png": "/myportfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/dark-minimal.jpg": "/myportfolio/static/media/dark-minimal.4914053eed08ddb1c829.jpg",
+    "static/media/GitHub-Mark.png": "/myportfolio/static/media/GitHub-Mark.65a029dd14ae5c405656.png",
+    "static/media/revicons.eot": "/myportfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/myportfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/myportfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/html-icon2.svg": "/myportfolio/static/media/html-icon2.4395a089ee4b1338c0e94e212b6dd055.svg",
+    "static/media/React-icon.svg": "/myportfolio/static/media/React-icon.58547e4806b3d64ef7f20e9989c574d2.svg",
+    "static/media/bootstrap-icon.svg": "/myportfolio/static/media/bootstrap-icon.527d0fc09fb3280153c26f0046a517a9.svg",
+    "static/media/c-sharp.svg": "/myportfolio/static/media/c-sharp.4560a3d0d7d56a6e9d8398b42e352013.svg",
+    "static/media/aspnet.svg": "/myportfolio/static/media/aspnet.e9b6087eaadfe7d06c3b07e252f380e4.svg",
+    "static/media/css-icon3.svg": "/myportfolio/static/media/css-icon3.aec31ad6887c3a820a1b3b8e2b9d9937.svg",
+    "index.html": "/myportfolio/index.html",
+    "static/media/nav-icon1.svg": "/myportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/JS-icon.svg": "/myportfolio/static/media/JS-icon.84ac97b2d839ad0e78473327947874a9.svg",
+    "static/media/gmail-logo.svg": "/myportfolio/static/media/gmail-logo.035b3453f2b226e6454c346a01fa7fab.svg",
+    "main.373fb5fe.css.map": "/myportfolio/static/css/main.373fb5fe.css.map",
+    "main.ce2f7617.js.map": "/myportfolio/static/js/main.ce2f7617.js.map",
+    "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.373fb5fe.css",
+    "static/js/main.ce2f7617.js"
+  ]
+}
